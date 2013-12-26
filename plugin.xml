@@ -3,7 +3,7 @@
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
            id="org.exolutus.unzip"
       version="0.1.0">
-    <name>Calendar</name>
+    <name>Unzip</name>
     <description>C# PhoneGap Unzip Plugin</description>
     <license>MIT</license>
     <keywords>phonegap,unzip</keywords>
@@ -16,7 +16,7 @@
     <!-- android -->
     <platform name="android">
         <config-file target="res/xml/config.xml" parent="/*">
-            <feature name="Calendar">
+            <feature name="Unzip">
                 <param name="android-package" value="org.exolutus.unzip.UnZip"/>
             </feature>
         </config-file>
