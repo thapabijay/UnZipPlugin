@@ -2,7 +2,7 @@
 
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
            id="org.exolutus.unzip"
-      version="0.1.0">
+      version="0.1.1">
     <name>Unzip</name>
     <description>C# PhoneGap Unzip Plugin</description>
     <license>MIT</license>
